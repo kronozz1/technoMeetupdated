@@ -2,7 +2,7 @@
 
 ![ngrok](../public/images/ngrok.png)
 
-If you want to expose MiroTalk SFU from your `Local PC` to outside in `HTTPS`, you need to do 2 things:
+If you want to expose from your `Local PC` to outside in `HTTPS`, you need to do 2 things:
 
 1. Add the [Ngrok](https://ngrok.com) `authToken` and change the `announcedIp` on `app/src/config.js`.
 
